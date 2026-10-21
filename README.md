@@ -1,8 +1,8 @@
 # 🏫 Système de Gestion Académique - PHP & MySQL
 
-[![Tech - PHP](https://shields.io)]()
-[![Tech - MySQL](https://shields.io)]()
-[![Security - Sessions](https://shields.io)]()
+[![Tech - PHP](https://shields.io)](https://github.com)
+[![Tech - MySQL](https://shields.io)](https://github.com)
+[![Security - Sessions](https://shields.io)](https://github.com)
 
 Conception et développement d'une application web dynamique de **Gestion Académique** permettant l'administration des départements, des cours et des utilisateurs (enseignants/étudiants). Ce projet a été entièrement réalisé dans le cadre du cursus d'ingénierie à l'**EMSI**.
 
